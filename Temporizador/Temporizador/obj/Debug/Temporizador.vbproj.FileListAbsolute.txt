@@ -1,0 +1,13 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\bin\Debug\Temporizador.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\bin\Debug\Temporizador.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.SuggestedBindingRedirects.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.Form1.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\Temporizador\Temporizador\obj\Debug\Temporizador.pdb

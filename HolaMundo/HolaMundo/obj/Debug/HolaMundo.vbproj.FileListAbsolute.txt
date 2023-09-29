@@ -1,0 +1,12 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\bin\Debug\HolaMundo.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Form1.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb

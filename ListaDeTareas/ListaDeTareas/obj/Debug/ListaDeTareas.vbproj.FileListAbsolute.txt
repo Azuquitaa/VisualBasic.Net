@@ -1,0 +1,13 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\bin\Debug\ListaDeTareas.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.vbproj.SuggestedBindingRedirects.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.Form1.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\CLASE02\ListaDeTareas\ListaDeTareas\obj\Debug\ListaDeTareas.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ListaDeTareas", "ListaDeTareas\ListaDeTareas.vbproj", "{DB5DB420-1B39-41AE-B298-AEB70AA113A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB5DB420-1B39-41AE-B298-AEB70AA113A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5DB420-1B39-41AE-B298-AEB70AA113A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5DB420-1B39-41AE-B298-AEB70AA113A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5DB420-1B39-41AE-B298-AEB70AA113A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0530B74-4E83-4EA5-AF33-0AEBFE731704}
+	EndGlobalSection
+EndGlobal

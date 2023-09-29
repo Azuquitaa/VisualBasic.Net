@@ -1,0 +1,13 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\bin\Debug\Reloj.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\bin\Debug\Reloj.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\bin\Debug\Reloj.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\bin\Debug\Reloj.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.vbproj.SuggestedBindingRedirects.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.Form1.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\Reloj\Reloj\obj\Debug\Reloj.pdb
