@@ -1,0 +1,12 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.Form1.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\bin\Debug\adivinarNumero.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\bin\Debug\adivinarNumero.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\bin\Debug\adivinarNumero.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\bin\Debug\adivinarNumero.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\adivinarNumero\adivinarNumero\obj\Debug\adivinarNumero.pdb

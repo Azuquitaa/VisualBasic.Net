@@ -1,0 +1,11 @@
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\bin\Debug\editorTexto.exe.config
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\bin\Debug\editorTexto.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\bin\Debug\editorTexto.pdb
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\bin\Debug\editorTexto.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.vbproj.AssemblyReference.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.Resources.resources
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.vbproj.GenerateResource.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.vbproj.CoreCompileInputs.cache
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.exe
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.xml
+C:\Users\luxam\OneDrive\Escritorio\CLASES\LEANDRO VISUAL BASIC\PROYECTOS\editorTexto\editorTexto\obj\Debug\editorTexto.pdb
